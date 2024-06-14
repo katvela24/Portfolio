@@ -1,21 +1,21 @@
 # React + Vite
 
-##Description
+###Description
 This React Portfolio is a single-page application featuring coding work samples of group projects.
 
-##Table of Contents
+###Table of Contents
 Installation
 Usage
 Credits
 License
 
 
-##Installation
+###Installation
 1. Create a repository on GitHub and clone to your local folder:
 
 Create a folder locally to nominate for cloning from online repo
 Clone with SSH by
-git clone git@github.com:katvela24/React-Portfolio.git
+git@github.com:katvela24/React-Portfolio.git
 
 
 2. Install NodeJS and the below npm packages
