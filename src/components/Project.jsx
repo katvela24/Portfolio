@@ -16,7 +16,7 @@ const Projects = () => {
             <br></br>
 
             <div className="projects-grid item3">
-                <img src="../src/assets/hiketolearn.png" alt="A flashcards website" />
+                <img src="../assets/hiketolearn.png" alt="A flashcards website" />
                 <div className="project-content">
 
 
@@ -41,7 +41,7 @@ const Projects = () => {
             <div className="projects-grid item3">
                 <a href="https://github.com/katvela24/radio_repertoire">
 
-                    <img src="./src/assets/radiorep.png" alt="A radio browser" />
+                    <img src="./assets/radiorep.png" alt="A radio browser" />
                     <div className="project-content">
 
 
