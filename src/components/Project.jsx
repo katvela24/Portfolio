@@ -16,7 +16,7 @@ const Projects = () => {
             <br></br>
 
             <div className="projects-grid item3">
-                <img src="../assets/hiketolearn.png" alt="A flashcards website" />
+                <img src="./assets/hiketolearn.png" alt="A flashcards website" />
                 <div className="project-content">
 
 

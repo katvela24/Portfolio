@@ -21,7 +21,7 @@ const AboutMe = () => {
 
 </p>
 
-          <img src="src\assets\galapagos.jpg" alt="me with a marina iguana in Galapagos" />
+          <img src="./assets/galapagos.jpg" alt="me with a marina iguana in Galapagos" />
        
   
       </section>
